@@ -1,2 +1,4 @@
 # json4s-sample
-Parsing of JSON using Json4s in Scala
+Sample code in Scala to parse JSON using Json4s.
+
+Explains how to use Custom serializers to be used in Json4s
